@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    background: #000;
+    color: #dbd1c7;
+    text-align: center;
+}
+
+.menu {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    display: inline-block;
+    padding: 20px;
+}
+
+body {
+    background-color: #dbd1c7;
+    font-family: monospace, sans-serif;
+}
+
+h1,
+h2 {
+    color: #dbd1c7;
+    background-color: #000;
+    text-align: center;
+}
+
+button,
+input,
+textarea {
+    font-family: inherit;
+    font-size: 100%;
+}
+
+footer {
+    color: #dbd1c7;
+    background-color: #000;
+    text-align: center;
+}
+
+:link {
+    color: #dbd1c7;
+}
+
+:visited {
+    color: #dbd1c7;
+}
+
+:active {
+    color: #dbd1c7;
+}
